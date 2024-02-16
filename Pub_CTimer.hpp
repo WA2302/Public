@@ -15,7 +15,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "stdint.h"
 
-extern uint32_t SysTime;
+extern uint64_t SysTime;
 
 /**
   * @class  CTimer
